@@ -1,95 +1,103 @@
 * {
-    margin: 0;
+    align-content: center;
+    margin: 0 auto;
     padding: 0;
     border: 0;
     font-family: outfit, sans-serif;
     font-size: 15px;
+    background-color: white;
 }
 
-@media screen {
 
-    body {
-        width: 1440px;
-        height: 800px;
-    }
-
-    .corpo {
-        position: relative;
-        align-content: center;
-        background-color: hsl(212, 45%, 89%);
-        width: 1440px;
-        height: 800px;
-    }
-
-    .qr {
-        height: 467px;
-        width: 320px;
-        align-content: center;
-    }
-
-    .attribution {
-        width: 1440px;
-        font-size: 15px;
-    }
+body {
+    width: 1440px;
+    height: 800px;
 }
+
+.corpo {
+    position: relative;
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    height: 800px;
+}
+
+.qr {
+
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    height: 467px;
+    width: 320px;
+    align-content: start;
+
+}
+
+.qr-card {
+    margin: 16px auto;
+    background-image: url("/src/images/image-qr-code.png");
+    background-size: cover;
+    height: 270px;
+    width: 288px;
+    border-radius: 20px;
+}
+
+.descript {
+    margin: 8px 16px;
+    width: 288px;
+    height: 122px;
+}
+
+.destaq {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 22px;
+    margin: 8px 16px;
+}
+
+.info {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin: 16px;
+}
+
+p {
+    text-align: center;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
 
 
 @media screen and (max-width: 395px) {
 
-    body{
+    body {
         width: 375px;
         height: 667px;
     }
 
     .corpo {
-        position: relative;
-        align-content: center;
-        background-color: hsl(212, 45%, 89%);
         width: 375px;
         height: 667px;
     }
 
     .qr {
         height: 497px;
-        width: 320px;
-        align-content: center;
     }
 
-    .attribution {
-        width: 375px;
-        font-size: 15px;
+    .qr-card {
+        height: 288px;
     }
-}
 
+    .descript {
+        height: 129px;
+    }
 
-.qr {
-    margin: 0 auto;
-    background-color: hsl(0, 0%, 100%);
-    border-radius: 10px;
-    padding: 16px;
-}
-
-.qr-card {
-    background-image: url("/images/image-qr-code.png");
-    background-size: cover;
-    height: 288px;
-    padding: 16px;
-    border-radius: 16px;
-}
-
-p {
-    text-align: center;
-    padding: 8px 16px;
-}
-
-.destaq {
-    color: hsl(218, 44%, 22%);
-    font-weight: 700;
-    font-size: 24px;
-}
-
-.info {
-    font-weight: 400;
-    color: hsl(220, 15%, 55%);
-    font-size: 17px;
+    .destaq {
+        font-size: 18px;
+    }
 }
