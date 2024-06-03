@@ -24,7 +24,7 @@ Esta é uma solução para o [desafio de componente de código QR no Frontend Me
 
 ### Links
 
-- URL da solução: [QR-CODE pub in Netlify](https://qr-code-newbie-frontend.netlify.app/)
+- URL da solução: [QR-CODE pub in GitHub](https://github.com/AndersonLBarcelos/fem-qr-code-component)
 - URL do site ativo: [QR-CODE pub in Netlify](https://qr-code-newbie-frontend.netlify.app/)
 
 ## Meu processo
@@ -42,3 +42,4 @@ Esta é uma solução para o [desafio de componente de código QR no Frontend Me
 
 - Site - [Anderson Barcelos](https://www.linkedin.com/in/andersondebarcelos/)
 - Mentor de front-end - [@AndersonLBarcelos](https://www.frontendmentor.io/profile/AndersonLBarcelos)
+- GitHub - [Anderson Barcelos](https://github.com/AndersonLBarcelos)
