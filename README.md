@@ -40,6 +40,5 @@ Esta é uma solução para o [desafio de componente de código QR no Frontend Me
 
 ## Autor
 
-- Site - [Adicione seu nome aqui](https://www.your-site.com)
-- Mentor de front-end - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Site - [Anderson Barcelos](https://www.linkedin.com/in/andersondebarcelos/)
+- Mentor de front-end - [@AndersonLBarcelos](https://www.frontendmentor.io/profile/AndersonLBarcelos)
