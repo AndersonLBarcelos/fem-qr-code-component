@@ -19,12 +19,13 @@ Esta é uma solução para o [desafio de componente de código QR no Frontend Me
 
 ### Captura de tela
 
-![](./screenshot.jpg)
+![](./screenshot/Desktop_QRCODE.png)
+![](./screenshot/Mobile_QRCODE.png)
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://splendorous-panda-e7ae87.netlify.app/)
+- URL da solução: [QR-CODE pub in Netlify](https://qr-code-newbie-frontend.netlify.app/)
+- URL do site ativo: [QR-CODE pub in Netlify](https://qr-code-newbie-frontend.netlify.app/)
 
 ## Meu processo
 
@@ -34,6 +35,8 @@ Esta é uma solução para o [desafio de componente de código QR no Frontend Me
 - Propriedades personalizadas CSS
 
 ### O que aprendi
+- Dimensionamento de telas
+- alinhamento horizontal e vertical
 
 ## Autor
 
